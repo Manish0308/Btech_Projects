@@ -1,0 +1,15 @@
+Metadata
+"Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'dataset/VideoSham/Original/061_unedited.mp4':"
+Metadata:
+major_brand     : mp42
+minor_version   : 0
+compatible_brands: mp42mp41
+creation_time   : 2021-08-22T18:33:55.000000Z
+"Duration: 00:00:05.08, start: 0.000000, bitrate: 7730 kb/s"
+"Stream #0:0[0x1](eng): Video: h264 (Main) (avc1 / 0x31637661), yuv420p(progressive), 1280x540 [SAR 1:1 DAR 64:27], 7712 kb/s, 24 fps, 24 tbr, 24k tbn (default)"
+Metadata:
+creation_time   : 2021-08-22T18:33:55.000000Z
+handler_name    : ?Mainconcept Video Media Handler
+vendor_id       : [0][0][0][0]
+encoder         : AVC Coding
+At least one output file must be specified

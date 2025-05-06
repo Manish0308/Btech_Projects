@@ -1,0 +1,171 @@
+Index,Metadata
+0,"Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'dataset/VideoSham/Original/101_unedited.mp4':"
+1,Metadata:
+2,major_brand     : mp42
+3,minor_version   : 0
+4,compatible_brands: mp42isom
+5,"Duration: 00:00:07.90, start: 0.000000, bitrate: 2485 kb/s"
+6,"Stream #0:0[0x1](und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(tv, bt709, progressive), 720x1280, 2288 kb/s, 59.74 fps, 59.94 tbr, 30k tbn (default)"
+7,Metadata:
+8,vendor_id       : [0][0][0][0]
+9,"Stream #0:1[0x2](und): Audio: aac (LC) (mp4a / 0x6134706D), 48000 Hz, stereo, fltp, 192 kb/s (default)"
+10,Metadata:
+11,vendor_id       : [0][0][0][0]
+12,At least one output file must be specified
+13,General - track_type: General
+14,General - count: 349
+15,General - count_of_stream_of_this_kind: 1
+16,General - kind_of_stream: General
+17,General - other_kind_of_stream: ['General']
+18,General - stream_identifier: 0
+19,General - count_of_video_streams: 1
+20,General - count_of_audio_streams: 1
+21,General - video_format_list: AVC
+22,General - video_format_withhint_list: AVC
+23,General - codecs_video: AVC
+24,General - audio_format_list: AAC LC
+25,General - audio_format_withhint_list: AAC LC
+26,General - audio_codecs: AAC LC
+27,General - audio_channels_total: 2
+28,General - complete_name: dataset/VideoSham/Original/101_unedited.mp4
+29,General - file_name_extension: dataset/VideoSham/Original/101_unedited.mp4
+30,General - file_name: dataset/VideoSham/Original/101_unedited
+31,General - file_extension: mp4
+32,General - format: MPEG-4
+33,General - other_format: ['MPEG-4']
+34,General - format_extensions_usually_used: braw mov mp4 m4v m4a m4b m4p m4r 3ga 3gpa 3gpp 3gp 3gpp2 3g2 k3g jpm jpx mqv ismv isma ismt f4a f4b f4v
+35,General - commercial_name: MPEG-4
+36,General - format_profile: Base Media / Version 2
+37,General - internet_media_type: video/mp4
+38,General - codec_id: mp42
+39,General - other_codec_id: ['mp42 (mp42/isom)']
+40,General - codec_id_url: http://www.apple.com/quicktime/download/standalone.html
+41,General - codecid_compatible: mp42/isom
+42,General - file_size: 2454834
+43,"General - other_file_size: ['2.34 MiB', '2 MiB', '2.3 MiB', '2.34 MiB', '2.341 MiB']"
+44,General - duration: 7901
+45,"General - other_duration: ['7 s 901 ms', '7 s 901 ms', '7 s 901 ms', '00:00:07.901', '00:00:07:52', '00:00:07.901 (00:00:07:52)']"
+46,General - overall_bit_rate_mode: VBR
+47,General - other_overall_bit_rate_mode: ['Variable']
+48,General - overall_bit_rate: 2485593
+49,General - other_overall_bit_rate: ['2 486 kb/s']
+50,General - frame_rate: 59.741
+51,General - other_frame_rate: ['59.741 FPS']
+52,General - frame_count: 472
+53,General - stream_size: 5946
+54,"General - other_stream_size: ['5.81 KiB (0%)', '6 KiB', '5.8 KiB', '5.81 KiB', '5.807 KiB', '5.81 KiB (0%)']"
+55,General - proportion_of_this_stream: 0.00242
+56,General - headersize: 5938
+57,General - datasize: 2448896
+58,General - footersize: 0
+59,General - isstreamable: Yes
+60,General - file_creation_date: 2025-04-28 06:20:33.504 UTC
+61,General - file_creation_date__local: 2025-04-28 11:50:33.504
+62,General - file_last_modification_date: 2025-04-28 06:20:00.120 UTC
+63,General - file_last_modification_date__local: 2025-04-28 11:50:00.120
+64,Video - track_type: Video
+65,Video - count: 391
+66,Video - count_of_stream_of_this_kind: 1
+67,Video - kind_of_stream: Video
+68,Video - other_kind_of_stream: ['Video']
+69,Video - stream_identifier: 0
+70,Video - streamorder: 0
+71,Video - track_id: 1
+72,Video - other_track_id: ['1']
+73,Video - format: AVC
+74,Video - other_format: ['AVC']
+75,Video - format_info: Advanced Video Codec
+76,Video - format_url: http://developers.videolan.org/x264.html
+77,Video - commercial_name: AVC
+78,Video - format_profile: High@L3.1
+79,Video - format_settings: CABAC / 1 Ref Frames
+80,Video - format_settings__cabac: Yes
+81,Video - other_format_settings__cabac: ['Yes']
+82,Video - format_settings__reference_frames: 1
+83,Video - other_format_settings__reference_frames: ['1 frame']
+84,Video - internet_media_type: video/H264
+85,Video - codec_id: avc1
+86,Video - codec_id_info: Advanced Video Coding
+87,Video - duration: 7901
+88,"Video - other_duration: ['7 s 901 ms', '7 s 901 ms', '7 s 901 ms', '00:00:07.901', '00:00:07:52', '00:00:07.901 (00:00:07:52)']"
+89,Video - bit_rate: 2288647
+90,Video - other_bit_rate: ['2 289 kb/s']
+91,Video - width: 720
+92,Video - other_width: ['720 pixels']
+93,Video - height: 1280
+94,Video - other_height: ['1 280 pixels']
+95,Video - sampled_width: 720
+96,Video - sampled_height: 1280
+97,Video - pixel_aspect_ratio: 1.000
+98,Video - display_aspect_ratio: 0.562
+99,Video - other_display_aspect_ratio: ['0.562']
+100,Video - rotation: 0.000
+101,Video - frame_rate_mode: VFR
+102,Video - other_frame_rate_mode: ['Variable']
+103,Video - frame_rate: 59.741
+104,Video - other_frame_rate: ['59.741 FPS']
+105,Video - minimum_frame_rate: 30.000
+106,Video - other_minimum_frame_rate: ['30.000 FPS']
+107,Video - maximum_frame_rate: 60.241
+108,Video - other_maximum_frame_rate: ['60.241 FPS']
+109,Video - frame_count: 472
+110,Video - color_space: YUV
+111,Video - chroma_subsampling: 4:2:0
+112,Video - other_chroma_subsampling: ['4:2:0']
+113,Video - bit_depth: 8
+114,Video - other_bit_depth: ['8 bits']
+115,Video - scan_type: Progressive
+116,Video - other_scan_type: ['Progressive']
+117,Video - bits__pixel_frame: 0.042
+118,Video - stream_size: 2260260
+119,"Video - other_stream_size: ['2.16 MiB (92%)', '2 MiB', '2.2 MiB', '2.16 MiB', '2.156 MiB', '2.16 MiB (92%)']"
+120,Video - proportion_of_this_stream: 0.92074
+121,Video - colour_description_present: Yes
+122,Video - colour_description_present_source: Stream
+123,Video - color_range: Limited
+124,Video - colour_range_source: Stream
+125,Video - color_primaries: BT.709
+126,Video - colour_primaries_source: Stream
+127,Video - transfer_characteristics: BT.709
+128,Video - transfer_characteristics_source: Stream
+129,Video - matrix_coefficients: BT.709
+130,Video - matrix_coefficients_source: Stream
+131,Video - codec_configuration_box: avcC
+132,Audio - track_type: Audio
+133,Audio - count: 285
+134,Audio - count_of_stream_of_this_kind: 1
+135,Audio - kind_of_stream: Audio
+136,Audio - other_kind_of_stream: ['Audio']
+137,Audio - stream_identifier: 0
+138,Audio - streamorder: 1
+139,Audio - track_id: 2
+140,Audio - other_track_id: ['2']
+141,Audio - format: AAC
+142,Audio - other_format: ['AAC LC']
+143,Audio - format_info: Advanced Audio Codec Low Complexity
+144,Audio - commercial_name: AAC
+145,Audio - format_additionalfeatures: LC
+146,Audio - codec_id: mp4a-40-2
+147,Audio - duration: 7854
+148,"Audio - other_duration: ['7 s 854 ms', '7 s 854 ms', '7 s 854 ms', '00:00:07.854', '00:00:07.854']"
+149,Audio - bit_rate_mode: VBR
+150,Audio - other_bit_rate_mode: ['Variable']
+151,Audio - bit_rate: 192000
+152,Audio - other_bit_rate: ['192 kb/s']
+153,Audio - channel_s: 2
+154,Audio - other_channel_s: ['2 channels']
+155,Audio - channel_positions: Front: L R
+156,Audio - other_channel_positions: ['2/0/0']
+157,Audio - channel_layout: L R
+158,Audio - samples_per_frame: 1024
+159,Audio - sampling_rate: 48000
+160,Audio - other_sampling_rate: ['48.0 kHz']
+161,Audio - samples_count: 376992
+162,Audio - frame_rate: 46.875
+163,Audio - other_frame_rate: ['46.875 FPS (1024 SPF)']
+164,Audio - frame_count: 368
+165,Audio - compression_mode: Lossy
+166,Audio - other_compression_mode: ['Lossy']
+167,Audio - stream_size: 188628
+168,"Audio - other_stream_size: ['184 KiB (8%)', '184 KiB', '184 KiB', '184 KiB', '184.2 KiB', '184 KiB (8%)']"
+169,Audio - proportion_of_this_stream: 0.07684

@@ -1,0 +1,288 @@
+Index,Metadata
+0,"[mov,mp4,m4a,3gp,3g2,mj2 @ 000001dc55bf8cc0] Could not find codec parameters for stream 2 (Audio: none (apac / 0x63617061), 48000 Hz, 4 channels, 391 kb/s): unknown codec"
+1,Consider increasing the value for the 'analyzeduration' (0) and 'probesize' (5000000) options
+2,[aist#0:2/none @ 000001dc55df7640] Guessed Channel Layout: 4.0
+3,"Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'dataset/VideoSham/Original/103_unedited.mov':"
+4,Metadata:
+5,major_brand     : qt
+6,minor_version   : 0
+7,compatible_brands: qt
+8,creation_time   : 2025-04-28T07:39:09.000000Z
+9,com.apple.quicktime.full-frame-rate-playback-intent: 0
+10,com.apple.quicktime.make: Apple
+11,com.apple.quicktime.model: iPhone 16 Plus
+12,com.apple.quicktime.software: 18.4.1
+13,com.apple.quicktime.creationdate: 2025-04-28T13:09:09+0530
+14,"Duration: 00:00:10.84, start: 0.000000, bitrate: 59615 kb/s"
+15,"Stream #0:0[0x1](und): Video: hevc (Main 10) (hvc1 / 0x31637668), yuv420p10le(tv, bt2020nc/bt2020/arib-std-b67), 3840x2160, 58967 kb/s, 59.97 fps, 60 tbr, 600 tbn (default)"
+16,Metadata:
+17,creation_time   : 2025-04-28T07:39:09.000000Z
+18,handler_name    : Core Media Video
+19,vendor_id       : [0][0][0][0]
+20,encoder         : HEVC
+21,Side data:
+22,"DOVI configuration record: version: 1.0, profile: 8, level: 10, rpu flag: 1, el flag: 0, bl flag: 1, compatibility id: 4, compression: 0"
+23,displaymatrix: rotation of -90.00 degrees
+24,"Ambient Viewing Environment, ambient_illuminance=314.000000, ambient_light_x=0.312700, ambient_light_y=0.329000"
+25,"Stream #0:1[0x2](und): Audio: aac (LC) (mp4a / 0x6134706D), 48000 Hz, stereo, fltp, 124 kb/s (default)"
+26,Metadata:
+27,creation_time   : 2025-04-28T07:39:09.000000Z
+28,handler_name    : Core Media Audio
+29,vendor_id       : [0][0][0][0]
+30,"Stream #0:2[0x3](und): Audio: none (apac / 0x63617061), 48000 Hz, 4.0, 391 kb/s"
+31,Metadata:
+32,creation_time   : 2025-04-28T07:39:09.000000Z
+33,handler_name    : Core Media Audio
+34,vendor_id       : [0][0][0][0]
+35,"Stream #0:3[0x4](und): Data: none (mebx / 0x7862656D), 0 kb/s (default)"
+36,Metadata:
+37,creation_time   : 2025-04-28T07:39:09.000000Z
+38,handler_name    : Core Media Metadata
+39,"Stream #0:4[0x5](und): Data: none (mebx / 0x7862656D), 0 kb/s (default)"
+40,Metadata:
+41,creation_time   : 2025-04-28T07:39:09.000000Z
+42,handler_name    : Core Media Metadata
+43,"Stream #0:5[0x6](und): Data: none (mebx / 0x7862656D), 0 kb/s (default)"
+44,Metadata:
+45,creation_time   : 2025-04-28T07:39:09.000000Z
+46,handler_name    : Core Media Metadata
+47,"Stream #0:6[0x7](und): Data: none (mebx / 0x7862656D), 69 kb/s (default)"
+48,Metadata:
+49,creation_time   : 2025-04-28T07:39:09.000000Z
+50,handler_name    : Core Media Metadata
+51,"Stream #0:7[0x8](und): Data: none (mebx / 0x7862656D), 5 kb/s (default)"
+52,Metadata:
+53,creation_time   : 2025-04-28T07:39:09.000000Z
+54,handler_name    : Core Media Metadata
+55,"Stream #0:8[0x9](und): Data: none (mebx / 0x7862656D), 0 kb/s (default)"
+56,Metadata:
+57,creation_time   : 2025-04-28T07:39:09.000000Z
+58,handler_name    : Core Media Metadata
+59,At least one output file must be specified
+60,General - track_type: General
+61,General - count: 354
+62,General - count_of_stream_of_this_kind: 1
+63,General - kind_of_stream: General
+64,General - other_kind_of_stream: ['General']
+65,General - stream_identifier: 0
+66,General - count_of_video_streams: 1
+67,General - count_of_audio_streams: 2
+68,General - othercount: 6
+69,General - video_format_list: HEVC
+70,General - video_format_withhint_list: HEVC
+71,General - codecs_video: HEVC
+72,General - audio_format_list: AAC LC / apac
+73,General - audio_format_withhint_list: AAC LC / apac
+74,General - audio_codecs: AAC LC / apac
+75,General - audio_channels_total: 6
+76,General - other_format_list: mebx / mebx / mebx / mebx / mebx / mebx
+77,General - other_format_withhint_list: mebx / mebx / mebx / mebx / mebx / mebx
+78,General - other_codec_list: mebx / mebx / mebx / mebx / mebx / mebx
+79,General - complete_name: dataset/VideoSham/Original/103_unedited.mov
+80,General - file_name_extension: dataset/VideoSham/Original/103_unedited.mov
+81,General - file_name: dataset/VideoSham/Original/103_unedited
+82,General - file_extension: mov
+83,General - format: MPEG-4
+84,General - other_format: ['MPEG-4']
+85,General - format_extensions_usually_used: braw mov mp4 m4v m4a m4b m4p m4r 3ga 3gpa 3gpp 3gp 3gpp2 3g2 k3g jpm jpx mqv ismv isma ismt f4a f4b f4v
+86,General - commercial_name: MPEG-4
+87,General - format_profile: QuickTime
+88,General - internet_media_type: video/mp4
+89,General - codec_id: qt  
+90,General - other_codec_id: ['qt   0000.00 (qt  )']
+91,General - codec_id_url: http://www.apple.com/quicktime/download/standalone.html
+92,General - codecid_version: 0000.00
+93,General - codecid_compatible: qt  
+94,General - file_size: 80754457
+95,"General - other_file_size: ['77.0 MiB', '77 MiB', '77 MiB', '77.0 MiB', '77.01 MiB']"
+96,General - duration: 10837
+97,"General - other_duration: ['10 s 837 ms', '10 s 837 ms', '10 s 837 ms', '00:00:10.837', '00:00:10:50', '00:00:10.837 (00:00:10:50)']"
+98,General - overall_bit_rate: 59613884
+99,General - other_overall_bit_rate: ['59.6 Mb/s']
+100,General - frame_rate: 60.000
+101,General - other_frame_rate: ['60.000 FPS']
+102,General - frame_count: 650
+103,General - stream_size: 165465
+104,"General - other_stream_size: ['162 KiB (0%)', '162 KiB', '162 KiB', '162 KiB', '161.6 KiB', '162 KiB (0%)']"
+105,General - proportion_of_this_stream: 0.00205
+106,General - headersize: 28
+107,General - datasize: 80725721
+108,General - footersize: 28708
+109,General - isstreamable: No
+110,General - encoded_date: 2025-04-28 07:39:09 UTC
+111,General - tagged_date: 2025-04-28 07:39:21 UTC
+112,General - file_creation_date: 2025-04-28 11:28:05.143 UTC
+113,General - file_creation_date__local: 2025-04-28 16:58:05.143
+114,General - file_last_modification_date: 2025-04-28 07:39:09.000 UTC
+115,General - file_last_modification_date__local: 2025-04-28 13:09:09.000
+116,General - writing_library: Apple QuickTime
+117,General - other_writing_library: ['Apple QuickTime']
+118,General - encoded_library_name: Apple QuickTime
+119,General - comapplequicktimefullframerateplaybackintent: 1
+120,General - comapplequicktimemake: Apple
+121,General - comapplequicktimemodel: iPhone 16 Plus
+122,General - comapplequicktimesoftware: 18.4.1
+123,General - comapplequicktimecreationdate: 2025-04-28T13:09:09+0530
+124,Video - track_type: Video
+125,Video - count: 392
+126,Video - count_of_stream_of_this_kind: 1
+127,Video - kind_of_stream: Video
+128,Video - other_kind_of_stream: ['Video']
+129,Video - stream_identifier: 0
+130,Video - streamorder: 0
+131,Video - track_id: 1
+132,Video - other_track_id: ['1']
+133,Video - format: HEVC
+134,Video - other_format: ['HEVC']
+135,Video - format_info: High Efficiency Video Coding
+136,Video - format_url: http://www.itu.int
+137,Video - commercial_name: HEVC
+138,Video - format_profile: Main 10@L5.1@High
+139,Video - hdr_format: Dolby Vision
+140,"Video - other_hdr_format: ['Dolby Vision, Version 1.0, Profile 8.4, dvhe.08.10, BL+RPU, no metadata compression, HLG compatible']"
+141,Video - hdr_format_commercial: HLG
+142,Video - hdr_format_version: 1.0
+143,Video - hdr_format_profile: dvhe.08
+144,Video - hdr_format_level: 10
+145,Video - hdr_format_settings: BL+RPU
+146,Video - hdr_format_compression: None
+147,Video - hdr_format_compatibility: HLG
+148,Video - internet_media_type: video/H265
+149,Video - codec_id: hvc1
+150,Video - codec_id_info: High Efficiency Video Coding
+151,Video - codec_id_url: http://www.itu.int/
+152,Video - duration: 10837
+153,"Video - other_duration: ['10 s 837 ms', '10 s 837 ms', '10 s 837 ms', '00:00:10.837', '00:00:10:50', '00:00:10.837 (00:00:10:50)']"
+154,Video - bit_rate: 58994536
+155,Video - other_bit_rate: ['59.0 Mb/s']
+156,Video - width: 3840
+157,Video - other_width: ['3 840 pixels']
+158,Video - height: 2160
+159,Video - other_height: ['2 160 pixels']
+160,Video - sampled_width: 3840
+161,Video - sampled_height: 2160
+162,Video - pixel_aspect_ratio: 1.000
+163,Video - display_aspect_ratio: 1.778
+164,Video - other_display_aspect_ratio: ['16:9']
+165,Video - rotation: 90.000
+166,Video - other_rotation: ['90°']
+167,Video - frame_rate_mode: VFR
+168,Video - other_frame_rate_mode: ['Variable']
+169,Video - frame_rate: 60.000
+170,Video - other_frame_rate: ['60.000 FPS']
+171,Video - framerate_num: 60
+172,Video - framerate_den: 1
+173,Video - minimum_frame_rate: 54.545
+174,Video - other_minimum_frame_rate: ['54.545 FPS']
+175,Video - maximum_frame_rate: 66.667
+176,Video - other_maximum_frame_rate: ['66.667 FPS']
+177,Video - frame_count: 650
+178,Video - color_space: YUV
+179,Video - chroma_subsampling: 4:2:0
+180,Video - other_chroma_subsampling: ['4:2:0']
+181,Video - bit_depth: 10
+182,Video - other_bit_depth: ['10 bits']
+183,Video - bits__pixel_frame: 0.119
+184,Video - stream_size: 79888434
+185,"Video - other_stream_size: ['76.2 MiB (99%)', '76 MiB', '76 MiB', '76.2 MiB', '76.19 MiB', '76.2 MiB (99%)']"
+186,Video - proportion_of_this_stream: 0.98928
+187,Video - title: Core Media Video
+188,Video - encoded_date: 2025-04-28 07:39:09 UTC
+189,Video - tagged_date: 2025-04-28 07:39:21 UTC
+190,Video - colour_description_present: Yes
+191,Video - colour_description_present_source: Container / Stream
+192,Video - color_range: Limited
+193,Video - colour_range_source: Stream
+194,Video - color_primaries: BT.2020
+195,Video - colour_primaries_source: Container / Stream
+196,Video - transfer_characteristics: HLG
+197,Video - transfer_characteristics_source: Container / Stream
+198,Video - matrix_coefficients: BT.2020 non-constant
+199,Video - matrix_coefficients_source: Container / Stream
+200,"Video - metas: 4,6,7"
+201,Video - codec_configuration_box: hvcC+dvvC
+202,Audio - track_type: Audio
+203,Audio - count: 287
+204,Audio - count_of_stream_of_this_kind: 2
+205,Audio - kind_of_stream: Audio
+206,Audio - other_kind_of_stream: ['Audio']
+207,Audio - other_stream_identifier: ['2']
+208,Audio - streamorder: 2
+209,Audio - track_id: 3
+210,Audio - other_track_id: ['3']
+211,Audio - format: apac
+212,Audio - other_format: ['apac']
+213,Audio - format_info: Advanced Audio Codec Low Complexity
+214,Audio - commercial_name: apac
+215,Audio - format_additionalfeatures: LC
+216,Audio - codec_id: apac
+217,Audio - duration: 10837
+218,"Audio - other_duration: ['10 s 837 ms', '10 s 837 ms', '10 s 837 ms', '00:00:10.837', '00:00:10.837']"
+219,Audio - source_duration: 10901
+220,"Audio - other_source_duration: ['10 s 901 ms', '10 s 901 ms', '10 s 901 ms', '00:00:10.901', '00:00:10.901']"
+221,Audio - bit_rate_mode: CBR
+222,Audio - other_bit_rate_mode: ['Constant']
+223,Audio - bit_rate: 392352
+224,Audio - other_bit_rate: ['392 kb/s']
+225,Audio - channel_s: 4
+226,Audio - other_channel_s: ['4 channels']
+227,Audio - channel_positions: Front: L R
+228,Audio - other_channel_positions: ['2/0/0']
+229,Audio - channel_layout: L R
+230,Audio - samples_per_frame: 1024
+231,Audio - sampling_rate: 48000
+232,Audio - other_sampling_rate: ['48.0 kHz']
+233,Audio - samples_count: 520176
+234,Audio - frame_rate: 46.875
+235,Audio - other_frame_rate: ['46.875 FPS (1024 SPF)']
+236,Audio - frame_count: 508
+237,Audio - source_frame_count: 511
+238,Audio - compression_mode: Lossy
+239,Audio - other_compression_mode: ['Lossy']
+240,Audio - stream_size: 531490
+241,"Audio - other_stream_size: ['519 KiB (1%)', '519 KiB', '519 KiB', '519 KiB', '519.0 KiB', '519 KiB (1%)']"
+242,Audio - proportion_of_this_stream: 0.00658
+243,Audio - source_stream_size: 533601
+244,"Audio - other_source_stream_size: ['521 KiB (1%)', '521 KiB', '521 KiB', '521 KiB', '521.1 KiB', '521 KiB (1%)']"
+245,Audio - source_streamsize_proportion: 0.00661
+246,Audio - title: Core Media Audio
+247,Audio - default: Inherited From: 2
+248,Audio - other_default: ['Inherited From: 2']
+249,Audio - alternate_group: 1
+250,Audio - other_alternate_group: ['1']
+251,Audio - encoded_date: 2025-04-28 07:39:09 UTC
+252,Audio - tagged_date: 2025-04-28 07:39:21 UTC
+253,Audio - fallback_from: 3
+254,Audio - stream_identifier: 1
+255,Audio - fallback_to: 2
+256,Audio - metas: 5
+257,Other - track_type: Other
+258,Other - count: 195
+259,Other - count_of_stream_of_this_kind: 6
+260,Other - kind_of_stream: Other
+261,Other - other_kind_of_stream: ['Other']
+262,Other - other_stream_identifier: ['6']
+263,Other - streamorder: 8
+264,Other - track_id: 9
+265,Other - other_track_id: ['9']
+266,Other - type: meta
+267,Other - format: mebx
+268,Other - other_format: ['mebx']
+269,Other - commercial_name: mebx
+270,Other - codec_id: mebx
+271,Other - duration: 10837
+272,"Other - other_duration: ['10 s 837 ms', '10 s 837 ms', '10 s 837 ms', '00:00:10.837', '00:00:10.837']"
+273,Other - bit_rate_mode: CBR
+274,Other - other_bit_rate_mode: ['Constant']
+275,Other - frame_count: 1
+276,Other - title: Core Media Metadata
+277,Other - encoded_date: 2025-04-28 07:39:09 UTC
+278,Other - tagged_date: 2025-04-28 07:39:21 UTC
+279,Other - stream_identifier: 5
+280,Other - source_duration: 10838
+281,"Other - other_source_duration: ['10 s 838 ms', '10 s 838 ms', '10 s 838 ms', '00:00:10.838', '00:00:10.838']"
+282,Other - source_frame_count: 650
+283,Other - stream_size: 7800
+284,"Other - other_stream_size: ['7.62 KiB', '8 KiB', '7.6 KiB', '7.62 KiB', '7.617 KiB']"
+285,Other - source_stream_size: 7800
+286,"Other - other_source_stream_size: ['7.62 KiB', '8 KiB', '7.6 KiB', '7.62 KiB', '7.617 KiB']"

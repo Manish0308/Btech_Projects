@@ -1,0 +1,82 @@
+{
+    "061_unedited.mp4": {
+        "hash": "6f87e6025597dd8588e07cc6932b32c5cb954231049a868540c21bc492e87119",
+        "metadata": {
+            "format_name": "mov,mp4,m4a,3gp,3g2,mj2",
+            "duration": "5.083333",
+            "bit_rate": "7730472",
+            "nb_streams": 1
+        },
+        "watermark": "VIDWM_061_unedited.mp4"
+    },
+    "062_unedited.mp4": {
+        "hash": "d6323194efc9eb3a3cff385bff205b0e09272b632691fdfe89409ae865a0d572",
+        "metadata": {
+            "format_name": "mov,mp4,m4a,3gp,3g2,mj2",
+            "duration": "6.583333",
+            "bit_rate": "8269390",
+            "nb_streams": 2
+        },
+        "watermark": "VIDWM_062_unedited.mp4"
+    },
+    "064_unedited.mp4": {
+        "hash": "d03c0baf437c4d25a4d2aff729a7035fe97808ccf7858703a19d9708702ab55f",
+        "metadata": {
+            "format_name": "mov,mp4,m4a,3gp,3g2,mj2",
+            "duration": "6.033333",
+            "bit_rate": "14922925",
+            "nb_streams": 1
+        },
+        "watermark": "VIDWM_064_unedited.mp4"
+    },
+    "061": {
+        "hash": "6f87e6025597dd8588e07cc6932b32c5cb954231049a868540c21bc492e87119",
+        "metadata": {
+            "format": "MPEG-4",
+            "duration": 5083,
+            "file_size": 4912071,
+            "overall_bit_rate": 7730979,
+            "encoded_date": "2021-08-22 18:33:55 UTC",
+            "tagged_date": "2021-08-22 18:33:56 UTC",
+            "device_make": null,
+            "device_model": null,
+            "software": null
+        },
+        "watermark": "VIDWM_061_unedited.mp4"
+    },
+    "062": {
+        "hash": "d6323194efc9eb3a3cff385bff205b0e09272b632691fdfe89409ae865a0d572",
+        "metadata": {
+            "format_name": "mov,mp4,m4a,3gp,3g2,mj2",
+            "duration": "6.583333",
+            "bit_rate": "8269390",
+            "nb_streams": 2
+        },
+        "watermark": "VIDWM_062_unedited.mp4"
+    },
+    "064": {
+        "hash": "d03c0baf437c4d25a4d2aff729a7035fe97808ccf7858703a19d9708702ab55f",
+        "metadata": {
+            "format_name": "mov,mp4,m4a,3gp,3g2,mj2",
+            "duration": "6.033333",
+            "bit_rate": "14922925",
+            "nb_streams": 1
+        },
+        "watermark": "VIDWM_064_unedited.mp4"
+    },
+    "063": {
+        "hash": "76519c6a6808c7bb1cbb5e6ef010e7563fb0570a72dde33c6c66b089d5688183",
+        "metadata": {
+            "format": "MPEG-4",
+            "duration": 4542,
+            "file_size": 4549615,
+            "overall_bit_rate": 8013413,
+            "encoded_date": "2021-08-22 18:38:47 UTC",
+            "tagged_date": "2021-08-22 18:38:48 UTC",
+            "device_make": null,
+            "device_model": null,
+            "software": null
+        },
+        "watermark": "VIDWM_063_unedited.mp4"
+    }
+}
