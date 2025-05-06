@@ -1,0 +1,602 @@
+{
+  "061_unedited.mp4": {
+    "hash": "6f87e6025597dd8588e07cc6932b32c5cb954231049a868540c21bc492e87119",
+    "metadata": {
+      "format": "MPEG-4",
+      "duration": 5083,
+      "file_size": 4912071,
+      "overall_bit_rate": 7730979,
+      "encoded_date": "2021-08-22 18:33:55 UTC",
+      "tagged_date": "2021-08-22 18:33:56 UTC",
+      "device_make": null,
+      "device_model": null,
+      "software": null
+    },
+    "watermark_text": "auth:manish|id:0061|ts:20250424"
+  },
+  "062_unedited.mp4": {
+    "hash": "d6323194efc9eb3a3cff385bff205b0e09272b632691fdfe89409ae865a0d572",
+    "metadata": {
+      "format": "MPEG-4",
+      "duration": 6583,
+      "file_size": 6805019,
+      "overall_bit_rate": 8269809,
+      "encoded_date": "2021-08-22 18:36:44 UTC",
+      "tagged_date": "2021-08-22 18:36:44 UTC",
+      "device_make": null,
+      "device_model": null,
+      "software": null
+    },
+    "watermark_text": "auth:manish|id:0062|ts:20250424"
+  },
+  "063_unedited.mp4": {
+    "hash": "76519c6a6808c7bb1cbb5e6ef010e7563fb0570a72dde33c6c66b089d5688183",
+    "metadata": {
+      "format": "MPEG-4",
+      "duration": 4542,
+      "file_size": 4549615,
+      "overall_bit_rate": 8013413,
+      "encoded_date": "2021-08-22 18:38:47 UTC",
+      "tagged_date": "2021-08-22 18:38:48 UTC",
+      "device_make": null,
+      "device_model": null,
+      "software": null
+    },
+    "watermark_text": "auth:manish|id:0063|ts:20250424"
+  },
+  "064_unedited.mp4": {
+    "hash": "d03c0baf437c4d25a4d2aff729a7035fe97808ccf7858703a19d9708702ab55f",
+    "metadata": {
+      "format": "MPEG-4",
+      "duration": 6033,
+      "file_size": 11254372,
+      "overall_bit_rate": 14923749,
+      "encoded_date": "2021-08-22 18:42:05 UTC",
+      "tagged_date": "2021-08-22 18:42:06 UTC",
+      "device_make": null,
+      "device_model": null,
+      "software": null
+    },
+    "watermark_text": "auth:manish|id:0064|ts:20250424"
+  },
+  "065_unedited.mp4": {
+    "hash": "b5c2576bffe4e1bf07ce1e2b817e7f8aee25867b81301f245af27fa005e14e43",
+    "metadata": {
+      "format": "MPEG-4",
+      "duration": 3433,
+      "file_size": 7991871,
+      "overall_bit_rate": 18623643,
+      "encoded_date": "2021-08-22 18:43:36 UTC",
+      "tagged_date": "2021-08-22 18:43:37 UTC",
+      "device_make": null,
+      "device_model": null,
+      "software": null
+    },
+    "watermark_text": "auth:manish|id:0065|ts:20250424"
+  },
+  "066_unedited.mp4": {
+    "hash": "4bd096cfa612b2945326f7045317714f9d76171045169d297d16673564723ef8",
+    "metadata": {
+      "format": "MPEG-4",
+      "duration": 10043,
+      "file_size": 4830405,
+      "overall_bit_rate": 3847779,
+      "encoded_date": "2021-08-22 18:45:37 UTC",
+      "tagged_date": "2021-08-22 18:45:37 UTC",
+      "device_make": null,
+      "device_model": null,
+      "software": null
+    },
+    "watermark_text": "auth:manish|id:0066|ts:20250424"
+  },
+  "067_unedited.mp4": {
+    "hash": "58ecb0d9064ff0b9c7eae7b15e73be05b911b7520641a2003c2a3e2a441faa84",
+    "metadata": {
+      "format": "MPEG-4",
+      "duration": 10040,
+      "file_size": 15551232,
+      "overall_bit_rate": 12391420,
+      "encoded_date": "2021-08-22 18:47:36 UTC",
+      "tagged_date": "2021-08-22 18:47:36 UTC",
+      "device_make": null,
+      "device_model": null,
+      "software": null
+    },
+    "watermark_text": "auth:manish|id:0067|ts:20250424"
+  },
+  "068_unedited.mp4": {
+    "hash": "cf1217e061b8cf1406c6ba8acefb56cd142fa6eb6df4d661bbdab07d292337c1",
+    "metadata": {
+      "format": "MPEG-4",
+      "duration": 8040,
+      "file_size": 12059597,
+      "overall_bit_rate": 11999599,
+      "encoded_date": "2021-08-22 18:49:26 UTC",
+      "tagged_date": "2021-08-22 18:49:26 UTC",
+      "device_make": null,
+      "device_model": null,
+      "software": null
+    },
+    "watermark_text": "auth:manish|id:0068|ts:20250424"
+  },
+  "069_unedited.mp4": {
+    "hash": "80fc3514336d7c25ee07469ec3989ba27a5832b1a0759ac8bfb3d6982643b1c5",
+    "metadata": {
+      "format": "MPEG-4",
+      "duration": 4040,
+      "file_size": 3006725,
+      "overall_bit_rate": 5953911,
+      "encoded_date": "2021-08-22 18:51:11 UTC",
+      "tagged_date": "2021-08-22 18:51:11 UTC",
+      "device_make": null,
+      "device_model": null,
+      "software": null
+    },
+    "watermark_text": "auth:manish|id:0069|ts:20250424"
+  },
+  "070_unedited.mp4": {
+    "hash": "e044a7277198d62bf735852f017200bd6546cbbc62722c606c2bbfb5c4dbf636",
+    "metadata": {
+      "format": "MPEG-4",
+      "duration": 10040,
+      "file_size": 5547274,
+      "overall_bit_rate": 4420139,
+      "encoded_date": "2021-08-22 18:52:57 UTC",
+      "tagged_date": "2021-08-22 18:52:57 UTC",
+      "device_make": null,
+      "device_model": null,
+      "software": null
+    },
+    "watermark_text": "auth:manish|id:0070|ts:20250424"
+  },
+  "071_unedited.mp4": {
+    "hash": "bfbbff77bc909f50cebca08030d8f585485b33e1c5208da9b00695f390947618",
+    "metadata": {
+      "format": "MPEG-4",
+      "duration": 8575,
+      "file_size": 12733307,
+      "overall_bit_rate": 11879470,
+      "encoded_date": "2021-08-25 14:19:27 UTC",
+      "tagged_date": "2021-08-25 14:19:28 UTC",
+      "device_make": null,
+      "device_model": null,
+      "software": null
+    },
+    "watermark_text": "auth:manish|id:0071|ts:20250424"
+  },
+  "072_unedited.mp4": {
+    "hash": "6002bb74601a22620b59e1578b18a8ca3066a1be6287c6b9a2e4c7d2a1b98733",
+    "metadata": {
+      "format": "MPEG-4",
+      "duration": 4000,
+      "file_size": 6052361,
+      "overall_bit_rate": 12104722,
+      "encoded_date": "2021-08-25 15:00:28 UTC",
+      "tagged_date": "2021-08-25 15:00:28 UTC",
+      "device_make": null,
+      "device_model": null,
+      "software": null
+    },
+    "watermark_text": "auth:manish|id:0072|ts:20250424"
+  },
+  "073_unedited.mp4": {
+    "hash": "2e5d6a1a832abc657a248e69b9c2a3855dd3c96fb6b854de0ef65761756ded75",
+    "metadata": {
+      "format": "MPEG-4",
+      "duration": 8408,
+      "file_size": 9843566,
+      "overall_bit_rate": 9365905,
+      "encoded_date": "2021-08-25 18:01:08 UTC",
+      "tagged_date": "2021-08-25 18:01:08 UTC",
+      "device_make": null,
+      "device_model": null,
+      "software": null
+    },
+    "watermark_text": "auth:manish|id:0073|ts:20250424"
+  },
+  "074_unedited.mp4": {
+    "hash": "8229be440d6c23272ef169d026bf6550ca18a736bc269ed0d0b1b2f14cc4f2a0",
+    "metadata": {
+      "format": "MPEG-4",
+      "duration": 6256,
+      "file_size": 8310445,
+      "overall_bit_rate": 10627168,
+      "encoded_date": "2021-08-25 18:03:33 UTC",
+      "tagged_date": "2021-08-25 18:03:33 UTC",
+      "device_make": null,
+      "device_model": null,
+      "software": null
+    },
+    "watermark_text": "auth:manish|id:0074|ts:20250424"
+  },
+  "075_unedited.mp4": {
+    "hash": "0500bd03087621b2de2c994adfae4043724d17f86baf7417e7e2b65a2e07735f",
+    "metadata": {
+      "format": "MPEG-4",
+      "duration": 10010,
+      "file_size": 13728243,
+      "overall_bit_rate": 10971623,
+      "encoded_date": "2021-08-25 06:24:07 UTC",
+      "tagged_date": "2021-08-25 06:24:07 UTC",
+      "device_make": null,
+      "device_model": null,
+      "software": null
+    },
+    "watermark_text": "auth:manish|id:0075|ts:20250424"
+  },
+  "076_unedited.mp4": {
+    "hash": "0a1018366c69726dc423e0a84b9e6d40c5ee3025a4483fe8fbf3d13710941d77",
+    "metadata": {
+      "format": "MPEG-4",
+      "duration": 6507,
+      "file_size": 8993774,
+      "overall_bit_rate": 11057352,
+      "encoded_date": "2021-08-25 18:11:47 UTC",
+      "tagged_date": "2021-08-25 18:11:48 UTC",
+      "device_make": null,
+      "device_model": null,
+      "software": null
+    },
+    "watermark_text": "auth:manish|id:0076|ts:20250424"
+  },
+  "077_unedited.mp4": {
+    "hash": "faa8b38bb99b4f359d505ec7d9167dfc133eeefda324288cc9e0808d073999dc",
+    "metadata": {
+      "format": "MPEG-4",
+      "duration": 20040,
+      "file_size": 11503385,
+      "overall_bit_rate": 4592170,
+      "encoded_date": "2021-08-26 06:36:59 UTC",
+      "tagged_date": "2021-08-26 06:36:59 UTC",
+      "device_make": null,
+      "device_model": null,
+      "software": null
+    },
+    "watermark_text": "auth:manish|id:0077|ts:20250424"
+  },
+  "078_unedited.mp4": {
+    "hash": "4f7eb7473d941cf47e773f4e9b32771eaf1c95f47324f4da9a067fbe5115acd8",
+    "metadata": {
+      "format": "MPEG-4",
+      "duration": 7552,
+      "file_size": 2577334,
+      "overall_bit_rate": 2730227,
+      "encoded_date": "2021-08-23 16:31:43 UTC",
+      "tagged_date": "2021-08-23 16:31:43 UTC",
+      "device_make": null,
+      "device_model": null,
+      "software": null
+    },
+    "watermark_text": "auth:manish|id:0078|ts:20250424"
+  },
+  "079_unedited.mp4": {
+    "hash": "ec200306b43d270af9d940132c2f9189c63a18bd4f3173e463191f053c041f21",
+    "metadata": {
+      "format": "MPEG-4",
+      "duration": 6006,
+      "file_size": 6635215,
+      "overall_bit_rate": 8838115,
+      "encoded_date": "2021-08-26 07:22:49 UTC",
+      "tagged_date": "2021-08-26 07:22:49 UTC",
+      "device_make": null,
+      "device_model": null,
+      "software": null
+    },
+    "watermark_text": "auth:manish|id:0079|ts:20250424"
+  },
+  "080_unedited.mp4": {
+    "hash": "bbd15130a55d9d08960b28160f323a9906cd35271b062b39d7a14bb6fd324bd5",
+    "metadata": {
+      "format": "MPEG-4",
+      "duration": 8860,
+      "file_size": 17406126,
+      "overall_bit_rate": 15716592,
+      "encoded_date": "2021-08-25 09:13:03 UTC",
+      "tagged_date": "2021-08-25 09:13:03 UTC",
+      "device_make": null,
+      "device_model": null,
+      "software": null
+    },
+    "watermark_text": "auth:manish|id:0080|ts:20250424"
+  },
+  "081_unedited.mp4": {
+    "hash": "56347ba3bd9a56c6e1ed8687cd37a090c13c3447d967a7227185167e50b0362c",
+    "metadata": {
+      "format": "MPEG-4",
+      "duration": 7640,
+      "file_size": 10769417,
+      "overall_bit_rate": 11276876,
+      "encoded_date": "2021-08-26 09:02:03 UTC",
+      "tagged_date": "2021-08-26 09:02:05 UTC",
+      "device_make": null,
+      "device_model": null,
+      "software": null
+    },
+    "watermark_text": "auth:manish|id:0081|ts:20250424"
+  },
+  "082_unedited.mp4": {
+    "hash": "c1369b5eeb620648e958683e5789cf624ce3fd25b411aef7806bbb7cf6063a46",
+    "metadata": {
+      "format": "MPEG-4",
+      "duration": 9500,
+      "file_size": 8686302,
+      "overall_bit_rate": 7314781,
+      "encoded_date": "2021-08-26 09:26:41 UTC",
+      "tagged_date": "2021-08-26 09:26:41 UTC",
+      "device_make": null,
+      "device_model": null,
+      "software": null
+    },
+    "watermark_text": "auth:manish|id:0082|ts:20250424"
+  },
+  "083_unedited.mp4": {
+    "hash": "3b9a1f741dca31c9c95312c8d903de104685b495fd4fcdcae6de6b4547313f78",
+    "metadata": {
+      "format": "MPEG-4",
+      "duration": 4838,
+      "file_size": 4859220,
+      "overall_bit_rate": 8035089,
+      "encoded_date": "2021-08-25 06:30:59 UTC",
+      "tagged_date": "2021-08-25 06:30:59 UTC",
+      "device_make": null,
+      "device_model": null,
+      "software": null
+    },
+    "watermark_text": "auth:manish|id:0083|ts:20250424"
+  },
+  "084_unedited.mp4": {
+    "hash": "ef83d75f9ace53d53deda64fd9f0d621703d100b30beffdcbd2471262ee669ae",
+    "metadata": {
+      "format": "MPEG-4",
+      "duration": 13013,
+      "file_size": 18276441,
+      "overall_bit_rate": 11235805,
+      "encoded_date": "2021-08-26 12:02:53 UTC",
+      "tagged_date": "2021-08-26 12:02:53 UTC",
+      "device_make": null,
+      "device_model": null,
+      "software": null
+    },
+    "watermark_text": "auth:manish|id:0084|ts:20250424"
+  },
+  "085_unedited.mp4": {
+    "hash": "8762672094a057cb2370e3c10b0195736180dcb2c3174b398bddb01b9c988cf7",
+    "metadata": {
+      "format": "MPEG-4",
+      "duration": 13632,
+      "file_size": 6531193,
+      "overall_bit_rate": 3832860,
+      "encoded_date": "2014-01-05 11:10:27 UTC",
+      "tagged_date": "2014-01-05 11:10:27 UTC",
+      "device_make": null,
+      "device_model": null,
+      "software": null
+    },
+    "watermark_text": "auth:manish|id:0085|ts:20250424"
+  },
+  "086_unedited.mp4": {
+    "hash": "fec684d0873388f38669712c80b83b3e50058f089e5ed1e4e20003673a9a3ff4",
+    "metadata": {
+      "format": "MPEG-4",
+      "duration": 5973,
+      "file_size": 2486877,
+      "overall_bit_rate": 3330825,
+      "encoded_date": "2021-08-29 14:54:29 UTC",
+      "tagged_date": "2021-08-29 14:54:29 UTC",
+      "device_make": null,
+      "device_model": null,
+      "software": null
+    },
+    "watermark_text": "auth:manish|id:0086|ts:20250424"
+  },
+  "087_unedited.mp4": {
+    "hash": "11ecdca3f40a9bdae0513d2992798e954feaa9f59977308f0b11521041506242",
+    "metadata": {
+      "format": "MPEG-4",
+      "duration": 8000,
+      "file_size": 10994094,
+      "overall_bit_rate": 10994094,
+      "encoded_date": "2021-08-27 08:40:42 UTC",
+      "tagged_date": "2021-08-27 08:40:42 UTC",
+      "device_make": null,
+      "device_model": null,
+      "software": null
+    },
+    "watermark_text": "auth:manish|id:0087|ts:20250424"
+  },
+  "088_unedited.mp4": {
+    "hash": "bd5d836e2b110beeffd08b069e7c50459d92b516a93df77734d38dcd0f302082",
+    "metadata": {
+      "format": "MPEG-4",
+      "duration": 2035,
+      "file_size": 3151291,
+      "overall_bit_rate": 12388368,
+      "encoded_date": "2021-08-26 18:17:28 UTC",
+      "tagged_date": "2021-08-26 18:17:28 UTC",
+      "device_make": null,
+      "device_model": null,
+      "software": null
+    },
+    "watermark_text": "auth:manish|id:0088|ts:20250424"
+  },
+  "089_unedited.mp4": {
+    "hash": "5749a01c9d320ae7ddb6250a0b91f28a3261250c4ca9bd5abfe873ccde2d20c2",
+    "metadata": {
+      "format": "MPEG-4",
+      "duration": 10000,
+      "file_size": 14144780,
+      "overall_bit_rate": 11315824,
+      "encoded_date": "2021-08-28 10:00:05 UTC",
+      "tagged_date": "2021-08-28 10:00:05 UTC",
+      "device_make": null,
+      "device_model": null,
+      "software": null
+    },
+    "watermark_text": "auth:manish|id:0089|ts:20250424"
+  },
+  "090_unedited.mp4": {
+    "hash": "e7d775418abcb8c3b4fe31efef2ab218868984f0d3eb1907ab3bf2c08a50dca7",
+    "metadata": {
+      "format": "MPEG-4",
+      "duration": 7120,
+      "file_size": 10159348,
+      "overall_bit_rate": 11414998,
+      "encoded_date": "2021-08-28 10:56:22 UTC",
+      "tagged_date": "2021-08-28 10:56:22 UTC",
+      "device_make": null,
+      "device_model": null,
+      "software": null
+    },
+    "watermark_text": "auth:manish|id:0090|ts:20250424"
+  },
+  "091_unedited.mp4": {
+    "hash": "c0b6b4013d62f18d8d7fc11b82b6885eb79ba8c1bdaa998150f213bfeb26f0af",
+    "metadata": {
+      "format": "MPEG-4",
+      "duration": 2002,
+      "file_size": 1000877,
+      "overall_bit_rate": 3999508,
+      "encoded_date": "2021-08-28 13:26:56 UTC",
+      "tagged_date": "2021-08-28 13:26:56 UTC",
+      "device_make": null,
+      "device_model": null,
+      "software": null
+    },
+    "watermark_text": "auth:manish|id:0091|ts:20250424"
+  },
+  "092_unedited.mp4": {
+    "hash": "f7923db11d080be076416a54ae8026cffdaf6b497973ce2c5a62e6c8ad5d159d",
+    "metadata": {
+      "format": "MPEG-4",
+      "duration": 3470,
+      "file_size": 6035497,
+      "overall_bit_rate": 13914690,
+      "encoded_date": "2021-08-25 10:12:35 UTC",
+      "tagged_date": "2021-08-25 10:12:35 UTC",
+      "device_make": null,
+      "device_model": null,
+      "software": null
+    },
+    "watermark_text": "auth:manish|id:0092|ts:20250424"
+  },
+  "093_unedited.mp4": {
+    "hash": "a554d013d6ad735a5edf77fb1382f12c40587339cd67e9da56ecc095faaf0a58",
+    "metadata": {
+      "format": "MPEG-4",
+      "duration": 12400,
+      "file_size": 9174778,
+      "overall_bit_rate": 5919212,
+      "encoded_date": "2021-08-26 18:02:17 UTC",
+      "tagged_date": "2021-08-26 18:02:17 UTC",
+      "device_make": null,
+      "device_model": null,
+      "software": null
+    },
+    "watermark_text": "auth:manish|id:0093|ts:20250424"
+  },
+  "094_unedited.mp4": {
+    "hash": "82987a6194426484d7463fef60c72d59e566c926da1cc80dc2f60e4f7813c422",
+    "metadata": {
+      "format": "MPEG-4",
+      "duration": 8425,
+      "file_size": 11397050,
+      "overall_bit_rate": 10822125,
+      "encoded_date": "2021-08-28 13:04:08 UTC",
+      "tagged_date": "2021-08-28 13:04:08 UTC",
+      "device_make": null,
+      "device_model": null,
+      "software": null
+    },
+    "watermark_text": "auth:manish|id:0094|ts:20250424"
+  },
+  "095_unedited.mp4": {
+    "hash": "242a7dc38bb3ab28fed6885bdae804bcb13056711c060b40ff84d88a27d98efa",
+    "metadata": {
+      "format": "MPEG-4",
+      "duration": 5100,
+      "file_size": 7142499,
+      "overall_bit_rate": 11203920,
+      "encoded_date": "2021-08-29 16:20:10 UTC",
+      "tagged_date": "2021-08-29 16:20:10 UTC",
+      "device_make": null,
+      "device_model": null,
+      "software": null
+    },
+    "watermark_text": "auth:manish|id:0095|ts:20250424"
+  },
+  "096_unedited.mp4": {
+    "hash": "5c8b55a65c35120b3cae4783375fd76c5f436b5c7229edada5d3808806128934",
+    "metadata": {
+      "format": "MPEG-4",
+      "duration": 5714,
+      "file_size": 6743383,
+      "overall_bit_rate": 9441208,
+      "encoded_date": "2021-08-30 06:44:16 UTC",
+      "tagged_date": "2021-08-30 06:44:16 UTC",
+      "device_make": null,
+      "device_model": null,
+      "software": null
+    },
+    "watermark_text": "auth:manish|id:0096|ts:20250424"
+  },
+  "097_unedited.mp4": {
+    "hash": "c40e52f58d088a3e96ae34d8a66500085c1ab1a61e1cd74a33cfbc1d7bda7517",
+    "metadata": {
+      "format": "MPEG-4",
+      "duration": 7241,
+      "file_size": 4153200,
+      "overall_bit_rate": 4588537,
+      "encoded_date": "2021-08-30 08:33:34 UTC",
+      "tagged_date": "2021-08-30 08:33:34 UTC",
+      "device_make": null,
+      "device_model": null,
+      "software": null
+    },
+    "watermark_text": "auth:manish|id:0097|ts:20250424"
+  },
+  "098_unedited.mp4": {
+    "hash": "36b77693a79f3a27bb0d48f698adda3107d2e86f720d6cffabb84d82001a9b00",
+    "metadata": {
+      "format": "MPEG-4",
+      "duration": 15000,
+      "file_size": 19547214,
+      "overall_bit_rate": 10425181,
+      "encoded_date": "2021-08-30 09:03:19 UTC",
+      "tagged_date": "2021-08-30 09:03:19 UTC",
+      "device_make": null,
+      "device_model": null,
+      "software": null
+    },
+    "watermark_text": "auth:manish|id:0098|ts:20250424"
+  },
+  "099_unedited.mp4": {
+    "hash": "a95f25539f7bc6214982060a9dff96bc7fc21fc2a8cdf389b0d9ab31258cf6db",
+    "metadata": {
+      "format": "MPEG-4",
+      "duration": 8141,
+      "file_size": 2258086,
+      "overall_bit_rate": 2218977,
+      "encoded_date": "2021-08-30 19:17:15 UTC",
+      "tagged_date": "2021-08-30 19:17:15 UTC",
+      "device_make": null,
+      "device_model": null,
+      "software": null
+    },
+    "watermark_text": "auth:manish|id:0099|ts:20250424"
+  },
+  "100_unedited.mp4": {
+    "hash": "9a41191f179c26fe32cc310c2447926032359d1234f3ecaecad31da7d9b6ef4d",
+    "metadata": {
+      "format": "MPEG-4",
+      "duration": 8091,
+      "file_size": 6073724,
+      "overall_bit_rate": 6005412,
+      "encoded_date": "2021-08-30 18:29:06 UTC",
+      "tagged_date": "2021-08-30 18:29:06 UTC",
+      "device_make": null,
+      "device_model": null,
+      "software": null
+    },
+    "watermark_text": "auth:manish|id:0100|ts:20250424"
+  }
+}

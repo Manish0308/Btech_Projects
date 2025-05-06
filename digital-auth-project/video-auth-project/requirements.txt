@@ -1,0 +1,10 @@
+ffmpeg-python
+pymediainfo
+opencv-python
+numpy
+Pillow
+requests
+pymediainfo
+hachoir
+pandas
+FFmpegExtractor
